@@ -10,7 +10,7 @@ import random
 import string
 
 # ============= CONFIGURATION =============
-BOT_TOKEN = "8449725246:AAEtce-j-J0c1by58B_NefeX7yISEMb4TBE"  # Telegram Bot Token
+BOT_TOKEN = "7626383881:AAHlLDcUCFWf0EMKlTtZaGAi-1XGbbEWK0w"  # Telegram Bot Token
 API_KEY = "6378cea5c08195f4c92db7b8fe80966daa91cc20f5eb3fda160a815d86c9f348"
 API_BASE_URL = "https://retrostress.net/api/start"
 ADMIN_ID = 5194407058  # YOUR TELEGRAM USER ID (ADMIN)
